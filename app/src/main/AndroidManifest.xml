@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="education.educate.amupedia">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AMUPedia">
+        <activity android:name="education.educate.amupedia.privacy_policy"/>
+        <activity android:name="education.educate.amupedia.mechanics" />
+        <activity android:name="education.educate.amupedia.english_btech" />
+        <activity android:name="education.educate.amupedia.BE_first_year" />
+        <activity android:name="education.educate.amupedia.comingsoonanime" />
+        <activity android:name="education.educate.amupedia.feedback" />
+        <activity android:name="education.educate.amupedia.elb" />
+        <activity android:name="education.educate.amupedia.som" />
+        <activity android:name="education.educate.amupedia.manufacturinglabs" />
+        <activity android:name="education.educate.amupedia.engineeringgraphics" />
+        <activity android:name="education.educate.amupedia.computer" />
+        <activity android:name="education.educate.amupedia.Environmentalstudies" />
+        <activity android:name="education.educate.amupedia.Elecengineering" />
+        <activity android:name="education.educate.amupedia.thermodynamics" />
+        <activity android:name="education.educate.amupedia.appliedphysicslabf" />
+        <activity android:name="education.educate.amupedia.appliedphysicsf" />
+        <activity android:name="education.educate.amupedia.appliedchemistrylab" />
+        <activity android:name="education.educate.amupedia.appliedchemistryf" />
+        <activity android:name="education.educate.amupedia.Apmsbtf" />
+        <activity android:name="education.educate.amupedia.Apmfbtf" />
+        <activity android:name="education.educate.amupedia.Btechfirstyear" />
+        <activity android:name="education.educate.amupedia.Helpinghands" />
+        <activity android:name="education.educate.amupedia.Team" />
+        <activity android:name="education.educate.amupedia.Aboutus" />
+        <activity android:name="education.educate.amupedia.Blog" />
+        <activity android:name="education.educate.amupedia.Courses" />
+        <activity android:name="education.educate.amupedia.Btechhomepage" />
+        <activity android:name="education.educate.amupedia.BEhomepage" />
+        <activity android:name="education.educate.amupedia.Drawyer" />
+        <activity android:name="education.educate.amupedia.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3502546896023212~3072178172" />
+    </application>
+
+</manifest>
