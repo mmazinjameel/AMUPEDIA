@@ -1,10 +1,12 @@
 # AMUPEDIA
-● Developed a student-centric mobile application using Java and XML, designed to provide Aligarh Muslim University (AMU) students with
-easy access to a comprehensive library of study notes and materials.
-● Designed and implemented an intuitive user interface (UI) to enhance user experience, improving navigation efficiency and accessibility for
-students.
-● Successfully published the app on the Google Play Store, where it garnered a 4.5+ user rating from over 500 downloads, praised for its
-seamless and user-friendly access to academic resources.
-● Incorporated advanced features such as search functionality and categorization by subjects, ensuring that students could quickly locate
-relevant notes, resulting in an increase in user engagement by 25% within the first month.
-● Actively maintained and updated the application, responding to user feedback to improve performance, stability, and usability.
+## Features of the AMU Student-Centric Mobile Application
+
+- **Comprehensive Study Resources**: Developed a mobile application using Java and XML, offering Aligarh Muslim University (AMU) students easy access to a library of study notes and materials.
+- **User-Centric Design**: Designed and implemented an intuitive user interface (UI) for improved navigation efficiency and accessibility.
+- **Google Play Store Success**: Published on the Google Play Store with over 500 downloads and a 4.5+ user rating, highly praised for seamless access to academic resources.
+- **Advanced Features**:
+  - Search functionality for quickly locating relevant notes.
+  - Categorization by subjects to enhance content discoverability.
+  - Boosted user engagement by 25% within the first month.
+
+
